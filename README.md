@@ -2,10 +2,10 @@
 
 Claude / Agent **skills** library by **Poorvith M P**.
 
-- Version: **v0.1**
+- Version: **v0.2**
 - Last updated: **July 2026**
 - License: **MIT**
-- Skills in this repo: **11**
+- Skills in this repo: **13**
 
 Part of the **[open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills)** multi-repo hub.
 
@@ -28,6 +28,7 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 |----------|-------|
 | `account-strategist` | Account Strategist |
 | `analytics-reporter` | Analytics Reporter |
+| `churn-analyst` | Churn Analyst |
 | `discovery-coach` | Discovery Coach |
 | `executive-summary-generator` | Executive Summary Generator |
 | `finance-tracker` | Finance Tracker |
@@ -35,6 +36,7 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 | `outbound-strategist` | Outbound Strategist |
 | `pipeline-analyst` | Pipeline Analyst |
 | `proposal-strategist` | Proposal Strategist |
+| `renewal-strategist` | Renewal Strategist |
 | `sales-coach` | Sales Coach |
 | `sales-engineer` | Sales Engineer |
 
@@ -52,3 +54,4 @@ skills/<skill-id>/
 ## Author
 
 Copyright (c) 2026 Poorvith M P
+Follow the build: [@poorvith_mp](https://x.com/poorvith_mp)
